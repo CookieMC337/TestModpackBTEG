@@ -1,0 +1,48 @@
+{
+  "servers": {
+    "other@proxy:f1510da5-0a6e-41b6-8d42-463ea3dffa76": {
+      "genSettings": "",
+      "mapState": {
+        "zoomLevel": 7.0,
+        "centerLongitude": 12.260742187499991,
+        "centerLatitude": 51.04830113331206,
+        "mapStyle": "osm",
+        "infoPannel": false,
+        "debug": false,
+        "f1": false,
+        "visibilitySettings": {
+          "mobs": true,
+          "creatures": true,
+          "right_click_marker": false,
+          "main_player_marker": true,
+          "player_directions": true,
+          "other_players": true,
+          "player_names": true
+        }
+      },
+      "hasShownWelcome": true
+    },
+    "earth@proxy:f1510da5-0a6e-41b6-8d42-463ea3dffa76": {
+      "genSettings": "",
+      "mapState": {
+        "zoomLevel": 18.0,
+        "centerLongitude": 8.448572158813478,
+        "centerLatitude": 49.3100469411092,
+        "mapStyle": "osm",
+        "infoPannel": false,
+        "debug": false,
+        "f1": false,
+        "visibilitySettings": {
+          "mobs": true,
+          "creatures": true,
+          "right_click_marker": false,
+          "main_player_marker": true,
+          "player_directions": true,
+          "other_players": true,
+          "player_names": true
+        }
+      },
+      "hasShownWelcome": true
+    }
+  }
+}
